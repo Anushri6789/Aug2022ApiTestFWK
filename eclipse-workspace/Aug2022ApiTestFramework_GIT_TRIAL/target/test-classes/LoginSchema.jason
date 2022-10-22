@@ -1,0 +1,73 @@
+[
+    {
+        "id": 3647,
+        "name": "Gov. Manoj Gandhi",
+        "email": "manoj_gandhi_gov@runolfsdottir-beier.co",
+        "gender": "male",
+        "status": "inactive"
+    },
+    {
+        "id": 3646,
+        "name": "Brajesh Deshpande",
+        "email": "deshpande_brajesh@donnelly-durgan.net",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 3645,
+        "name": "Agnivesh Kaniyar",
+        "email": "kaniyar_agnivesh@conn-kunde.net",
+        "gender": "male",
+        "status": "inactive"
+    },
+    {
+        "id": 3644,
+        "name": "Chandranath Bandopadhyay",
+        "email": "chandranath_bandopadhyay@jacobs.name",
+        "gender": "female",
+        "status": "inactive"
+    },
+    {
+        "id": 3643,
+        "name": "Ms. Meghnad Guha",
+        "email": "guha_meghnad_ms@koss.biz",
+        "gender": "female",
+        "status": "active"
+    },
+    {
+        "id": 3642,
+        "name": "Narayan Varman II",
+        "email": "varman_ii_narayan@swift.name",
+        "gender": "male",
+        "status": "inactive"
+    },
+    {
+        "id": 3641,
+        "name": "Vaishno Iyer",
+        "email": "vaishno_iyer@armstrong-deckow.org",
+        "gender": "male",
+        "status": "inactive"
+    },
+    {
+        "id": 3640,
+        "name": "Agniprava Gill Esq.",
+        "email": "gill_esq_agniprava@okon.com",
+        "gender": "male",
+        "status": "inactive"
+    },
+    {
+        "id": 3639,
+        "name": "Kailash Pillai DO",
+        "email": "pillai_kailash_do@miller-runolfsson.io",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 3638,
+        "name": "Dipankar Nambeesan",
+        "email": "dipankar_nambeesan@keebler.io",
+        "gender": "female",
+        "status": "inactive"
+    }
+]
+}
